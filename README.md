@@ -1,2 +1,0 @@
-# .py
-Python codes 
